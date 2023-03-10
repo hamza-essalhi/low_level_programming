@@ -1,1 +1,1 @@
-this is a simple read me file to c programming languege dircetory
+this is a simple readme file to c programming language directory By Hamza Essalhi
